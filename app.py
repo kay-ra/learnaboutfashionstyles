@@ -42,7 +42,7 @@ elif pilihan == "Gyaru":
     st.image("gyaru.png")
 
 st.markdown("""
-<a href="file:///C:/Users/kayra/OneDrive/Desktop/PROJECT%20INFOR/product.html">
+<a href="https://kaitogrande.github.io/mengheningkan-cipta/product.html">
     <button>← Back to Home</button>
 </a>
 """, unsafe_allow_html=True)
